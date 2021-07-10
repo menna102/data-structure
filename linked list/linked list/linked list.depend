@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625902864 source:d:\my_files\2nd term\embedded systems\linked list\linked list\linked list\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<time.h>
+
